@@ -1,10 +1,9 @@
-# Wordpress - ignore core, configuration, examples, uploads and logs.
-# https://github.com/github/gitignore/blob/main/WordPress.gitignore
+# Wordpress: ignore el núcleo, la configuración, los ejemplos, las cargas y los registros.
 
 # Core
 #
-# Note: if you want to stage/commit WP core files
-# you can delete this whole section/until Configuration.
+# Nota: si desea organizar/confirmar archivos principales de WP
+# puede eliminar toda esta sección/hasta Configuración.
 /wp-admin/
 /wp-content/index.php
 /wp-content/languages
@@ -37,12 +36,12 @@ wp-config.php
 
 # All plugins
 #
-# Note: If you wish to whitelist plugins,
-# uncomment the next line
+# Nota: si desea incluir complementos en la lista blanca,
+# descomente la siguiente línea
 #/wp-content/plugins
 
 # All themes
 #
-# Note: If you wish to whitelist themes,
-# uncomment the next line
+# Nota: si desea incluir temas en la lista blanca,
+# descomente la siguiente línea
 #/wp-content/themes
