@@ -1,1 +1,2 @@
 # tauro_amaya
+Este repositorio es un sitio web de venta de licores en Riohacha, La Guajira. Aquí los usuarios pueden encontrar una amplia variedad de licores de alta calidad a precios competitivos. Además, el sitio web ofrece información detallada sobre cada producto, incluyendo su origen, sabor y maridaje recomendado. Los usuarios también pueden leer reseñas de otros clientes y dejar sus propias opiniones. Con una navegación fácil de usar y un proceso de compra seguro, este sitio web es el destino perfecto para los amantes del buen licor en Riohacha.
