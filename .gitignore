@@ -34,6 +34,9 @@ wp-config.php
 # htaccess
 /.htaccess
 
+# backup bases de datos
+*.sql
+
 # All plugins
 #
 # Nota: si desea incluir complementos en la lista blanca,
