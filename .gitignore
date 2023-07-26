@@ -42,3 +42,7 @@ wp-config.php
 # Nota: si desea incluir temas en la lista blanca,
 # descomente la siguiente línea
 #/wp-content/themes
+
+wp-config-ddev.php
+
+.ddev/config.yaml
