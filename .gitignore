@@ -1,44 +1,14 @@
-# Wordpress: ignore el núcleo, la configuración, los ejemplos, las cargas y los registros.
-
-# Core
-#
-# Nota: si desea organizar/confirmar archivos principales de WP
-# puede eliminar toda esta sección/hasta Configuración.
-/wp-content/index.php
-/wp-content/languages
-/wp-content/plugins/index.php
-/wp-content/themes/index.php
-/license.txt
-/readme.html
-# Configuration
+# Ignorar archivos de configuración específicos del servidor
 wp-config.php
 
-# Example themes
-/wp-content/themes/twenty*/
+# Ignorar el archivo de registro de errores de PHP
+error_log
 
-# Example plugin
-/wp-content/plugins/hello.php
+# Eliminacion de archivo .ddev
+.ddev
 
-# Uploads
-/wp-content/uploads/
+# Eliminacion de archivo de configuracion ddev
+wp-config-ddev.php
 
-# Log files
+# Eliminar archivo .log 
 *.log
-
-# htaccess
-/.htaccess
-
-# backup bases de datos
-*.sql
-
-# All plugins
-#
-# Nota: si desea incluir complementos en la lista blanca,
-# descomente la siguiente línea
-#/wp-content/plugins
-
-# All themes
-#
-# Nota: si desea incluir temas en la lista blanca,
-# descomente la siguiente línea
-#/wp-content/themes
